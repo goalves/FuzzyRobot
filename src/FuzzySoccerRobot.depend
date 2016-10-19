@@ -1,0 +1,123 @@
+# depslib dependency file v1.0
+1442847202 source:e:\fuzzysoccer\soccerplayer_library\environm.cpp
+	"environm.h"
+	"soccerdef.hpp"
+	<stdlib.h>
+
+1115775346 e:\fuzzysoccer\soccerplayer_library\environm.h
+	"sock.hpp"
+	"geom.hpp"
+
+1253594392 e:\fuzzysoccer\soccerplayer_library\sock.hpp
+	<stdexcept>
+	"basetp.hpp"
+
+1104767720 e:\fuzzysoccer\soccerplayer_library\basetp.hpp
+
+1111974320 e:\fuzzysoccer\soccerplayer_library\geom.hpp
+	<math.h>
+
+1100217950 e:\fuzzysoccer\soccerplayer_library\soccerdef.hpp
+
+1253594452 source:e:\fuzzysoccer\soccerplayer_library\sock.cpp
+	"sock.hpp"
+	<winsock2.h>
+	<mem.h>
+	<memory.h>
+	<errno.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<unistd.h>
+
+1447295723 source:e:\fuzzysoccer\fuzzysoccerrobot\fuzzysoccerrobot\main.cpp
+	"environm.h"
+	<string>
+	<sstream>
+	<fstream>
+	"FuzzySet.h"
+	"FuzzyTriangle.h"
+	"FuzzyDelta.h"
+	"FuzzyGamma.h"
+	"FuzzyTrapezium.h"
+	"FuzzyLogic.h"
+	"stdio.h"
+	"stdlib.h"
+	"math.h"
+
+1442843602 e:\fuzzysoccer\fuzzysoccerrobot\fuzzysoccerrobot\environm.cpp
+	"environm.h"
+	"soccerdef.hpp"
+	<stdlib.h>
+
+1115775346 e:\fuzzysoccer\fuzzysoccerrobot\fuzzysoccerrobot\environm.h
+	"sock.hpp"
+	"geom.hpp"
+
+1253594392 e:\fuzzysoccer\fuzzysoccerrobot\fuzzysoccerrobot\sock.hpp
+	<stdexcept>
+	"basetp.hpp"
+
+1104767720 e:\fuzzysoccer\fuzzysoccerrobot\fuzzysoccerrobot\basetp.hpp
+
+1111974320 e:\fuzzysoccer\fuzzysoccerrobot\fuzzysoccerrobot\geom.hpp
+	<math.h>
+
+1100214350 e:\fuzzysoccer\fuzzysoccerrobot\fuzzysoccerrobot\soccerdef.hpp
+
+1253590852 e:\fuzzysoccer\fuzzysoccerrobot\fuzzysoccerrobot\sock.cpp
+	"sock.hpp"
+	<winsock2.h>
+	<mem.h>
+	<memory.h>
+	<errno.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<unistd.h>
+
+1443029233 source:e:\fuzzysoccer\fuzzysoccerrobot\fuzzysoccerrobot\fuzzylogic.cpp
+	"FuzzyLogic.h"
+	<math.h>
+
+1442885405 source:e:\fuzzysoccer\fuzzysoccerrobot\fuzzysoccerrobot\fuzzygroup.cpp
+	"FuzzyGroup.h"
+
+1442883811 e:\fuzzysoccer\fuzzysoccerrobot\fuzzysoccerrobot\fuzzygroup.h
+
+1443026616 source:e:\fuzzysoccer\fuzzysoccerrobot\fuzzysoccerrobot\fuzzydelta.cpp
+	"FuzzyDelta.h"
+
+1443026598 e:\fuzzysoccer\fuzzysoccerrobot\fuzzysoccerrobot\fuzzydelta.h
+	"FuzzySet.h"
+
+1443026614 source:e:\fuzzysoccer\fuzzysoccerrobot\fuzzysoccerrobot\fuzzygamma.cpp
+	"FuzzyGamma.h"
+
+1443026596 e:\fuzzysoccer\fuzzysoccerrobot\fuzzysoccerrobot\fuzzygamma.h
+	"FuzzySet.h"
+
+1443026612 source:e:\fuzzysoccer\fuzzysoccerrobot\fuzzysoccerrobot\fuzzytrapezium.cpp
+	"FuzzyTrapezium.h"
+
+1443026583 e:\fuzzysoccer\fuzzysoccerrobot\fuzzysoccerrobot\fuzzytrapezium.h
+	"FuzzySet.h"
+
+1443026608 source:e:\fuzzysoccer\fuzzysoccerrobot\fuzzysoccerrobot\fuzzytriangle.cpp
+	"FuzzyTriangle.h"
+
+1443026585 e:\fuzzysoccer\fuzzysoccerrobot\fuzzysoccerrobot\fuzzytriangle.h
+	"FuzzySet.h"
+
+1443029338 e:\fuzzysoccer\fuzzysoccerrobot\fuzzysoccerrobot\fuzzylogic.h
+	"FuzzySet.h"
+	"FuzzyTriangle.h"
+	"FuzzyDelta.h"
+	"FuzzyGamma.h"
+
+1443026588 e:\fuzzysoccer\fuzzysoccerrobot\fuzzysoccerrobot\fuzzyset.h
+

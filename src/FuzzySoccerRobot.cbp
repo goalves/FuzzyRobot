@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="FuzzySoccerRobot" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/FuzzySoccerRobot" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/FuzzySoccerRobot" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="../../SoccerPlayer_Library/basetp.hpp" />
+		<Unit filename="../../SoccerPlayer_Library/environm.cpp" />
+		<Unit filename="../../SoccerPlayer_Library/environm.h" />
+		<Unit filename="../../SoccerPlayer_Library/geom.hpp" />
+		<Unit filename="../../SoccerPlayer_Library/soccerdef.hpp" />
+		<Unit filename="../../SoccerPlayer_Library/sock.cpp" />
+		<Unit filename="../../SoccerPlayer_Library/sock.hpp" />
+		<Unit filename="FuzzyDelta.cpp" />
+		<Unit filename="FuzzyDelta.h" />
+		<Unit filename="FuzzyGamma.cpp" />
+		<Unit filename="FuzzyGamma.h" />
+		<Unit filename="FuzzyLogic.cpp" />
+		<Unit filename="FuzzyLogic.h" />
+		<Unit filename="FuzzyTrapezium.cpp" />
+		<Unit filename="FuzzyTrapezium.h" />
+		<Unit filename="FuzzyTriangle.cpp" />
+		<Unit filename="FuzzyTriangle.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
