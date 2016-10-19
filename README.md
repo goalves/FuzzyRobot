@@ -1,5 +1,5 @@
 # FuzzyRobot
-Jogador (IA) que utiliza lógica fuzzy para jogar, feito em C++.
+IA que utiliza lógica fuzzy para simular um jogador de futebol, feito em C++.
 Usa como base o servidor criado por Daniel Monteiro Basso (http://www.inf.ufrgs.br/~ewbasso/works/fuzsoccer/fuzsoccer_pt.htm).
 
 # Robô Fuzzy
